@@ -2,3 +2,5 @@
     npm init -y
 2. install express nodemailer
     npm i express nodemailer
+3. install nodemon
+    npm i -D nodemon
